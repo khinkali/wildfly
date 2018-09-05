@@ -1,4 +1,4 @@
-FROM khinkali/base-jdk:0.0.1
+FROM khinkali/base-jdk:0.0.2
 
 MAINTAINER Robert Brem <brem_robert@hotmail.com>
 
